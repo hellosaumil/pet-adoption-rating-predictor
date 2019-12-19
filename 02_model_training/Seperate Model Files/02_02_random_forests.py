@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Pet Adoption Rating Prediction
+# # Pet Adoption Speed Prediction
 #
 # **Course :** CS596 - Machine Learning
 #
